@@ -1,4 +1,4 @@
-/*terraform{
+/*terraform{.
  backend "s3"{
     bucket = "batch1212"
     key = "terraform.tfstate"
